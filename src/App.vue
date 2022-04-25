@@ -2,9 +2,7 @@
   <div class="main">
     <div id="app">
       <nav>
-        <h1>
-          <router-link to="/">Juego de fisoterapia</router-link>
-        </h1>
+        <h1>Quiz</h1>
       </nav>
       <router-view />
     </div>
